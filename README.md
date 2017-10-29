@@ -1,4 +1,4 @@
-# RandomPivotInsertionSort
+# RandomPivotQuickSort
 
 
 
